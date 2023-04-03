@@ -84,8 +84,8 @@ body{
     display: grid;
     grid-template-columns: repeat(4,auto);
     align-items: center;
-    gap: 1.4rem;
-    margin-right: 100px;
+    gap: 1.2rem;
+    margin-right: 50px;
     
 }
 .menu-channel-icon{
